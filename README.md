@@ -63,8 +63,3 @@ Documentation may be natively in GitHub using the wiki or .md files in the appro
 
 ## Slack room
 leaf-edw
-
-## Need help with GitHub? See the Managing Tranlational Informatics Projects (MTIP) tutorial
-
-This [tutorial](https://data2health.github.io/mtip-tutorial/lessons/Lesson5.html) covers markdown basics and more.
-
