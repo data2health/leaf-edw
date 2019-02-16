@@ -62,7 +62,7 @@ Documentation may be natively in GitHub using the wiki or .md files in the appro
 [The project Google drive folder](https://drive.google.com/drive/u/0/folders/1vLp-H32KTNobiZF2cK82At90S6dVJNUf) is accessible to onboarded participants. 
 
 ## Slack room
-UWLeadProjects
+leaf-edw
 
 ## Need help with GitHub? See the Managing Tranlational Informatics Projects (MTIP) tutorial
 
