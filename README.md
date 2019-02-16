@@ -13,7 +13,7 @@ To address this challenge, we have developed an easy to use, self service web-ba
 
 Point person (github handle) | Site | Program Director
 ----------|--------------|---------------
-Liz Zampino (@zampino) | UW | Sean Mooney (@sdmooney)
+Liz Zampino (@ezampino) | UW | Sean Mooney (@sdmooney)
 
 ## Leads 
 
