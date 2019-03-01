@@ -33,8 +33,9 @@ See https://github.com/data2health/project-repo-template/tree/master/team.md
 
 ## Repositories
 
-https://github.com/data2health/leaf-edw
-https://github.com/data2health/UWOperations
+- https://github.com/data2health/leaf-edw
+
+- https://github.com/data2health/UWOperations
 
 ## Deliverables
 Each project should propose one or more deliverables. Examples: a released code package, a best practices document, a final survey, a set of survey results, etc.
@@ -60,7 +61,7 @@ https://github.com/data2health/leaf-edw/blob/master/engagement
 Documentation may be natively in GitHub using the wiki or .md files in the appropriate folder, or in Google Drive.
 [Documentating projects in Github](https://guides.github.com/features/wikis/)
 
-[The project Google drive folder](https://drive.google.com/drive/u/0/folders/1vLp-H32KTNobiZF2cK82At90S6dVJNUf) is accessible to participants [have been onboarded](bit.ly/cd2h-onbaoarding form). 
+[The project Google drive folder](https://drive.google.com/drive/u/0/folders/1vLp-H32KTNobiZF2cK82At90S6dVJNUf) is accessible to participants [have been onboarded](bit.ly/cd2h-onboarding-form). 
 
 ## Slack room
-[#leaf-edw](https://cd2h.slack.com/messages/CG92VLQFP) is accessible to participants that [have been onboarded](bit.ly/cd2h-onbaoarding form)
+[#leaf-edw](https://cd2h.slack.com/messages/CG92VLQFP) is accessible to participants that [have been onboarded](bit.ly/cd2h-onboarding-form)
