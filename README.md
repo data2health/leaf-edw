@@ -31,6 +31,7 @@ n/a
 
 ## Deliverables
 -The Leaf software made available with a license to CTSAs, with supporting documentation for installation/configuration.
+
 -The Leaf software working against live UW, Wash U, and Data QUEST data as demonstrations of cross-institutional data querying capability, enabled in the cloud.
 
 ## Milestones 
