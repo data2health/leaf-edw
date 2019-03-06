@@ -13,11 +13,9 @@ To address this challenge, we have developed an easy to use, self service web-ba
 
 Point person (github handle) | Site | Program Director
 ----------|--------------|---------------
-Liz Zampino (@ezampino) | UW | Sean Mooney (@sdmooney)
+Nic Dobbins (@ndobbs) | UW | Sean Mooney (@sdmooney)
 
 ## Leads 
-
-Project scientific leadership, should be 1-3 persons. 
 
 Lead(s) (github handle) | Site
 ----------|--------------|
@@ -26,42 +24,30 @@ Nic Dobbins   (@ndobb)        | UW
 Sean Mooney   (@sdmooney)     | UW
 
 ## Team members 
-
-No action required here, a list of team members will be imported and linked below.
-
-See https://github.com/data2health/project-repo-template/tree/master/team.md
+Team members can be found [here](https://github.com/data2health/leaf-edw/blob/master/team.md)
 
 ## Repositories
-
-- https://github.com/data2health/leaf-edw
-
-- https://github.com/data2health/UWOperations
+n/a
 
 ## Deliverables
-Each project should propose one or more deliverables. Examples: a released code package, a best practices document, a final survey, a set of survey results, etc.
+-The Leaf software made available with a license to CTSAs, with supporting documentation for installation/configuration.
+-The Leaf software working against live UW, Wash U, and Data QUEST data as demonstrations of cross-institutional data querying capability, enabled in the cloud.
 
 ## Milestones 
-Milestone 1: Convening
-Milestone 2: Engaged Pilot
-Milestone 3: Release of Code, Leaf 1.0
-Milestone 4: Pilot (2)
+View the project milestones [here](https://github.com/data2health/leaf-edw/milestones)
 
 ## Evaluation
 
-https://github.com/data2health/leaf-edw/blob/master/evaluation
+View the Evaluation component [here](https://github.com/data2health/leaf-edw/blob/master/evaluation)
 
 ## Education
-https://github.com/data2health/leaf-edw/blob/master/Education.md
-
+View the education component [here](https://github.com/data2health/leaf-edw/blob/master/Education.md)
 
 ## Get involved
-https://github.com/data2health/leaf-edw/blob/master/engagement
+View the engagement component [here](https://github.com/data2health/leaf-edw/blob/master/engagement.md)
 
 ## Working documents
-Documentation may be natively in GitHub using the wiki or .md files in the appropriate folder, or in Google Drive.
-[Documentating projects in Github](https://guides.github.com/features/wikis/)
-
-[The project Google drive folder](https://drive.google.com/drive/u/0/folders/1vLp-H32KTNobiZF2cK82At90S6dVJNUf) is accessible to participants [have been onboarded](bit.ly/cd2h-onboarding-form). 
+Team collabortive working document can be found [here](https://docs.google.com/document/d/1amhNf-yj2L3MtcuTX2PJWQqIrTZiBWCUfBGHlvyX3ZU/edit)
 
 ## Slack room
 [#leaf-edw](https://cd2h.slack.com/messages/CG92VLQFP) is accessible to participants that [have been onboarded](bit.ly/cd2h-onboarding-form)
