@@ -11,7 +11,7 @@ We have developed an easy to use, self service web-based tool for querying, brow
 
 Point person (github handle) | Site | Program Director
 ----------|--------------|---------------
-Nic Dobbins (@ndobbs) | UW | Sean Mooney (@sdmooney)
+Nic Dobbins (@ndobb) | UW | Sean Mooney (@sdmooney)
 
 ## Leads 
 
