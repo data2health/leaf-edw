@@ -28,6 +28,9 @@ Team members can be found [here](https://github.com/data2health/leaf-edw/blob/ma
 n/a
 
 ## Deliverables
+
+-Preliminary Pilot Plan; document that supports successful implemenation of pilot.
+
 -The Leaf software made available with a license to CTSAs, with supporting documentation for installation/configuration.
 
 -The Leaf software working against live UW, Wash U, and Data QUEST data as demonstrations of cross-institutional data querying capability, enabled in the cloud.
