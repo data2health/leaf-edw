@@ -49,7 +49,7 @@ View the education component [here](https://github.com/data2health/leaf-edw/blob
 View the engagement component [here](https://github.com/data2health/leaf-edw/blob/master/engagement.md)
 
 ## Working documents
-Team collaborative working document can be found [here](https://docs.google.com/document/d/1amhNf-yj2L3MtcuTX2PJWQqIrTZiBWCUfBGHlvyX3ZU/edit)
+Team collaborative working document can be found [here](https://drive.google.com/drive/u/0/folders/1mtkdASHmgQ4HmIxAZPWeHyKfP0SR2kuG)
 
 ## Slack room
 [#leaf-edw](https://cd2h.slack.com/messages/CG92VLQFP) is accessible to participants that [have been onboarded](bit.ly/cd2h-onboarding-form)
