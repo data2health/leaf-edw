@@ -28,7 +28,7 @@ Sean Mooney   (@sdmooney)     | UW
 Team members can be found [here](https://github.com/data2health/leaf-edw/blob/master/team.md)
 
 ## Repositories
-n/a
+Leaf Code: [here] (https://github.com/uwrit/leaf)
 
 ## Deliverables
 
