@@ -34,7 +34,9 @@ Leaf Code: [here](https://github.com/uwrit/leaf)
 
 -Preliminary Pilot Plan; document that supports successful implemenation of pilot.
 
--The Leaf software made available with a license to CTSAs, with supporting documentation for installation/configuration.
+-Execute Leaf software license 
+
+-Leaf Code
 
 -The Leaf software working against live UW, Wash U, and Data QUEST data as demonstrations of cross-institutional data querying capability, enabled in the cloud.
 
