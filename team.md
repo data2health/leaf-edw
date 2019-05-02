@@ -3,12 +3,12 @@
 ## Lead(s)
 Name | GitHub Handle | Site
 -- | -- | --
-Ammar Chaudhry | [informatics](https://github.com/achaudhry615/informatics) | COH
 Nic Dobbins | [ndobb](https://github.com/ndobb) | UW
 
 ## Contributor(s)
 Name | GitHub Handle | Site
 -- | -- | --
+Ammar Chaudhry | [informatics](https://github.com/achaudhry615/informatics) | COH
 Christopher Chute | [cgchute](https://github.com/cgchute) | JHU
 Ken Gersing | [KenGersing](https://github.com/KenGersing) | NCATS
 Mehadi Hassan | [mh2727](https://github.com/mh2727) | UW
