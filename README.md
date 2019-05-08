@@ -22,7 +22,7 @@ Lead(s) (github handle) | Site
 ----------|--------------|
 Kari Stephens (@kstephen0909) | UW
 Nic Dobbins   (@ndobb)        | UW
-Sean Mooney   (@sdmooney)     | UW
+Adam Wilcox   (@abwilcox)     | UW
 
 ## Team members 
 Team members can be found [here](https://github.com/data2health/leaf-edw/blob/master/team.md)
