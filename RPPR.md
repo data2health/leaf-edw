@@ -34,3 +34,4 @@ October 30 | Evaluation of Pilots (paper). | [Not Started](https://github.com/da
 
 # Potential Pitfalls and Alternative Strategies
   
+  Since this project is heavily influenced by the engagement activities of CTSA hub, 
