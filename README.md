@@ -32,13 +32,13 @@ Leaf Code: [here](https://github.com/uwrit/leaf)
 
 ## Deliverables
 
--Preliminary Pilot Plan; document that supports successful implemenation of pilot.
+- Pilot Plan. A collaborative document between pilot site and Leaf team that outlines purpose and goals, scope, timeline, communication plan and feedback actitivies. We will achieve this by having bi-weekly chats with project management team and quartly chats with executive team.
 
--Execute Leaf software license 
+- Open Source Licensed Leaf code. Clean and polished code available on GitHub with extensive documentation for deployment. This will be accomplished through our own trial and errors of publishing code and the deployment of Leaf on the UW infrastructure.
 
--Leaf Code
+- Evaluation Pilot paper. This paper will discuss and outline the accomplishments of implementing Leaf at 2-3 CTSA hubs.
 
--The Leaf software working against live UW, Wash U, and Data QUEST data as demonstrations of cross-institutional data querying capability, enabled in the cloud.
+- Leaf manuscript. 
 
 ## Milestones 
 View the project milestones [here](https://github.com/data2health/leaf-edw/milestones)
