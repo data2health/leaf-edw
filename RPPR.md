@@ -29,8 +29,8 @@ April 29 | Manuscript submitted. | [Done](https://github.com/data2health/leaf-ed
 May 6 | Succesfully solicitated two pilots that meet requirements. | [Done](https://github.com/data2health/leaf-edw/milestone/1)
 June 30 | Pilot Plans in collaboration with a site | [Ongoing](https://github.com/data2health/leaf-edw/milestone/5)
 September 1 | Single Pilot Instance concluded | [Ongoing](https://github.com/data2health/leaf-edw/milestone/4)
-October 1 | Engaged Multi Instance Pilot. | [Ongoing](https://github.com/data2health/leaf-edw/milestone/2)
-October 30 | Evaluation of Pilots (paper). | [Not Started](https://github.com/data2health/leaf-edw/milestone/7)
+December 31 | Engaged Multi Instance Pilot Operational | [Ongoing](https://github.com/data2health/leaf-edw/milestone/2)
+2020 | Evaluation of Pilots (paper) | [Not Started](https://github.com/data2health/leaf-edw/milestone/7)
 
 # Potential Pitfalls and Alternative Strategies
   
