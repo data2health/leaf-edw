@@ -34,4 +34,4 @@ December 31 | Engaged Multi Instance Pilot Operational | [Ongoing](https://githu
 
 # Potential Pitfalls and Alternative Strategies
   
-  Since this project is heavily influenced by the engagement activities of CTSA hub, 
+  Since this project is heavily influenced by the engagement activities of a CTSA hub, there is potential for lack of involvement; lack of adequate resources to work with the Leaf team; tech or timeline issues; and/or Leaf is deemed not useful for site. We have devised a strategy that includes having several potential pilot sites that can serve as a back-up sites in case any of the above scenerios occur. Each committed pilot site will be evaluated at period intervals to determine their engangement/progress.
