@@ -19,7 +19,7 @@ Evaluation Phase. Leaf will be evaluated at pilot institutions  to determine its
 1. Leaf Code on GitHub under an open source license. 
 2. 3-4 successfully run pilots
 3. Evaluation Paper and Manuscript Paper
-4. GitHub repository that successfully allows Leaf to completely independent of any support, troubleshooting, etc. for the CTSA community to deploy and use. 
+4. GitHub repository that successfully allows Leaf to be deployed completely independent of any support, troubleshooting, etc. for the CTSA community. 
 
 # Timeline (monthly)
  Due Date | Milestone    | Status     | 
@@ -27,7 +27,7 @@ Evaluation Phase. Leaf will be evaluated at pilot institutions  to determine its
 March 28 | GitHub Leaf Code posted | [Done](https://github.com/data2health/leaf-edw/milestone/6)
 April 29 | Manuscript submitted | [Done](https://github.com/data2health/leaf-edw/milestone/3)
 May 6 | Succesfully solicitated two pilots that meet requirements. | [Done](https://github.com/data2health/leaf-edw/milestone/1)
-June 30 | Pilot Plans in collaboration with a site | [Ongoing](https://github.com/data2health/leaf-edw/milestone/5)
+June 30 | Pilot Plans in collaboration with each site | [Ongoing]
 September 1 | Single Pilot Instance concluded | [Ongoing](https://github.com/data2health/leaf-edw/milestone/4)
 December 31 | Engaged Multi Instance Pilot concluded | [Ongoing](https://github.com/data2health/leaf-edw/milestone/2)
 2020 | Evaluation of Pilots (paper) | [Not Started](https://github.com/data2health/leaf-edw/milestone/7)
