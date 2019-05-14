@@ -14,7 +14,7 @@ TODO see [here](https://github.com/data2health/roadmap/blob/master/cd2h-foa.md)
 
 Point person (github handle) | Site | Program Director
 ----------|--------------|---------------
-Nic Dobbins (@ndobb) | UW | Sean Mooney (@sdmooney)
+Liz Zampino (@ezampino) | UW | Adam Wilcox (@abwilcox)
 
 ## Leads 
 
