@@ -45,7 +45,7 @@ View the project milestones [here](https://github.com/data2health/leaf-edw/miles
 
 ## Evaluation
 
-View the Evaluation component [here](https://github.com/data2health/leaf-edw/blob/master/evaluation)
+View the Evaluation component [here](https://github.com/data2health/leaf-edw/blob/master/evaluation.md)
 
 ## Education
 View the education component [here](https://github.com/data2health/leaf-edw/blob/master/Education.md)
