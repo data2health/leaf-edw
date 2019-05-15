@@ -32,7 +32,7 @@ Leaf Code: [here](https://github.com/uwrit/leaf)
 
 ## Deliverables
 
-- Pilot Plan. A collaborative document between pilot site and Leaf team that outlines purpose and goals, scope, timeline, communication plan and feedback actitivies. We will achieve this by having bi-weekly chats with project management team and quartly chats with executive team. This deliverable supports the Leaf team and pilot site, enabling both to have a clear understanding, minimizing risk.
+- Pilot Plan Framework. For each pilot site a collaborative document will be created with the Leaf team that outlines purpose and goals, scope, timeline, communication plan and feedback actitivies. We will achieve this by having bi-weekly chats with project management team and quartly chats with executive team. This deliverable supports the Leaf team and pilot site, enabling both to have a clear understanding, minimizing risk.
 
 - Open Source licensed Leaf code. Clean and polished code available on GitHub with extensive documentation for deployment. This will be accomplished through expertise gained through the deployment of Leaf on the UW infrastructure. A well organized/define repository supports the independent deployment of Leaf at a CTSA site.
 
