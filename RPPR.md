@@ -34,9 +34,9 @@ Evaluation Phase. Leaf will be evaluated at pilot institutions  to determine its
 # Timeline (monthly)
  Due Date | Milestone    | Status     | 
 |:----------|:--------------:|------------:|
-March 28 | GitHub Leaf Code posted | [Done](https://github.com/data2health/leaf-edw/milestone/6)
-April 29 | Manuscript submitted | [Done](https://github.com/data2health/leaf-edw/milestone/3)
-May 6 | Succesfully solicitated two pilots | [Done](https://github.com/data2health/leaf-edw/milestone/1)
+March 28 | GitHub Leaf Code posted | [DONE](https://github.com/data2health/leaf-edw/milestone/6)
+April 29 | Manuscript submitted | [DONE](https://github.com/data2health/leaf-edw/milestone/3)
+May 6 | Succesfully solicitated two pilots | [DONE](https://github.com/data2health/leaf-edw/milestone/1)
 June 30 | Pilot Plan Framework| [Ongoing](https://github.com/data2health/leaf-edw/issues/27)
 September 1 | Single Pilot Instance concluded | [Ongoing](https://github.com/data2health/leaf-edw/milestone/4)
 December 31 | Engaged Multi Instance Pilot concluded | [Ongoing](https://github.com/data2health/leaf-edw/milestone/2)
