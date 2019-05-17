@@ -21,6 +21,16 @@ Evaluation Phase. Leaf will be evaluated at pilot institutions  to determine its
 3. Evaluation Paper and Manuscript Paper
 4. GitHub repository that successfully allows Leaf to be deployed completely independent of any support, troubleshooting, etc. for the CTSA community. 
 
+# Deliverables
+
+- Pilot Plan Framework. For each pilot site a collaborative document will be created with the Leaf team that outlines purpose and goals, scope, timeline, communication plan and feedback actitivies. We will achieve this by having bi-weekly chats with project management team and quartly chats with executive team. This deliverable supports the Leaf team and pilot site, enabling both to have a clear understanding, minimizing risk.
+
+- Open Source licensed Leaf code. Clean and polished code available on GitHub with extensive documentation for deployment. This will be accomplished through expertise gained through the deployment of Leaf on the UW infrastructure. A well organized/define repository supports the independent deployment of Leaf at a CTSA site.
+
+- Evaluation Pilot paper. This paper will discuss and outline the accomplishments of implementing Leaf at 2-3 CTSA hubs. This paper will serve as an information source for institutions to deploy Leaf independently at their site and serves as a companion to the repository. 
+
+- Leaf manuscript. This paper serves the purpose of gaining traction in the community and also serves as a way to educate the community on Leaf.
+
 # Timeline (monthly)
  Due Date | Milestone    | Status     | 
 |:----------|:--------------:|------------:|
