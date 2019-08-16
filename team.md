@@ -29,21 +29,27 @@ Liz Zampino | [ezampino](https://github.com/ezampino) | UW
 Name | GitHub Handle | Site
 -- | -- | --
 Nick Anderson | [flipcorp](http://github.com/flipcorp) | UCDavisHealth
+Michael Bales | [michaelbales1](http://github.com/michaelbales1) | Cornell
 Tell Bennett | [tdbennett](https://github.com/tdbennett) | UCDenver
 Tom Campion | [github.com](http://github.com) | Cornell
 Jack Chang | [ab2cw](https://github.com/ab2cw) | URMC
 Connor Cook | [cgcook](https://github.com/cgcook) | OHSU
+Catherine  Craven | [github.com](http://github.com) | Icahn
+Jack DiGiovanna | [jackDigi](https://github.com/jackDigi) | SevenBridges
 James Eddy | [jaeddy](https://github.com/jaeddy) | Sage
 Peter Elkin | [github.com](http://github.com) | UBuffalo
 David Ellison | [dhekidney](http://github.com/dhekidney) | OHSU
 Shahim Essaid | [ShahimEssaid](http://github.com/ShahimEssaid) | OHSU
 Joseph Finkelstein | [finkeljOMOP](http://github.com/finkeljOMOP) | Icahn
+John Franz | [github.com](http://github.com) | Icahn
 Brian Furner | [bfurner](https://github.com/bfurner) | UChicago
 Tamas Gal | [tsgal](https://github.com/tsgal) | CCTR
 JP Gourdine | [jpgourdine](https://github.com/jpgourdine) | OHSU
+Randy Grout | [randallgrout](https://github.com/randallgrout) | Indiana
 Melissa Haendel | [mellybelly](http://github.com/mellybelly) | OHSU
 Diane Keogh | [gibhub.com](http://gibhub.com) | Harvard
 Boyd Knosp | [boydknosp](http://github.com/boydknosp) | Iowa
+Brenda Kostelecky | [bdkostelecky](http://github.com/bdkostelecky) | Hutch
 Ashok Krishnamurthy | [ashokohio](http://github.com/ashokohio) | UNC
 Albert Lai | [laialbert](https://github.com/laialbert) | WashU
 Lisa O'Keefe | [LisaOKeefe1](https://github.com/LisaOKeefe1) | Northwestern
