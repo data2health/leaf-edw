@@ -4,4 +4,4 @@ We would like to engage several sites in the community to deploy, use and analyz
 
 - Completing multiple demos to gather interest
 - The pilots themselves will require a high level of engagement from CTSA hubs; we plan on having at least one pilot occur outside of the CD2H community. 
-- Sumbit a AMIA workshop proposal
+- Submit a AMIA workshop proposal
