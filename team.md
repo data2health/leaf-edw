@@ -14,7 +14,7 @@ Ken Gersing | [KenGersing](https://github.com/KenGersing) | NCATS
 Mehadi Hassan | [mh2727](https://github.com/mh2727) | UW
 Raju Hemadri | [rajuhemadri](https://github.com/rajuhemadri) | NCATS
 Rania Mussa | [ramussa](https://github.com/ramussa) | UW
-Steve Patterson | [github.com.](http://github.com.) | #N/A
+Steve Patterson | [github.com.](http://github.com.) | iTHRIV
 Philip Payne | [prpayne5](http://github.com/prpayne5) | WashU
 Justin Prosser | [jprosser](http://github.com/jprosser) | UW
 Eugene Sadhu | [eugsadhu](https://github.com/eugsadhu) | UIC
