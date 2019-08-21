@@ -14,6 +14,7 @@ Ken Gersing | [KenGersing](https://github.com/KenGersing) | NCATS
 Mehadi Hassan | [mh2727](https://github.com/mh2727) | UW
 Raju Hemadri | [rajuhemadri](https://github.com/rajuhemadri) | NCATS
 Rania Mussa | [ramussa](https://github.com/ramussa) | UW
+Steve Patterson | [github.com.](http://github.com.) | #N/A
 Philip Payne | [prpayne5](http://github.com/prpayne5) | WashU
 Justin Prosser | [jprosser](http://github.com/jprosser) | UW
 Eugene Sadhu | [eugsadhu](https://github.com/eugsadhu) | UIC
@@ -28,6 +29,7 @@ Liz Zampino | [ezampino](https://github.com/ezampino) | UW
 ## Mailing list only
 Name | GitHub Handle | Site
 -- | -- | --
+Chris Amos | [github.com](http://github.com) | Baylor
 Nick Anderson | [flipcorp](http://github.com/flipcorp) | UCDavisHealth
 Michael Bales | [michaelbales1](http://github.com/michaelbales1) | Cornell
 Tell Bennett | [tdbennett](https://github.com/tdbennett) | UCDenver
