@@ -54,6 +54,7 @@ Boyd Knosp | [boydknosp](http://github.com/boydknosp) | Iowa
 Brenda Kostelecky | [bdkostelecky](http://github.com/bdkostelecky) | Hutch
 Ashok Krishnamurthy | [ashokohio](http://github.com/ashokohio) | UNC
 Albert Lai | [laialbert](https://github.com/laialbert) | WashU
+Diego Mazzotti | [mazzottidr](https://github.com/mazzottidr) | #N/A
 Lisa O'Keefe | [LisaOKeefe1](https://github.com/LisaOKeefe1) | Northwestern
 Nitin Parikh | [github.com](http://github.com) | UCDavisHealth
 Svetlana Rojevsky | [github.com](http://github.com) | Tufts
