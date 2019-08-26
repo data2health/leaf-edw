@@ -37,7 +37,7 @@ Evaluation Phase. Leaf will be evaluated at pilot institutions  to determine its
 March 28 | GitHub Leaf Code posted | [DONE](https://github.com/data2health/leaf-edw/milestone/6)
 April 29 | Manuscript submitted | [DONE](https://github.com/data2health/leaf-edw/milestone/3)
 May 6 | Succesfully solicitated two pilots | [DONE](https://github.com/data2health/leaf-edw/milestone/1)
-September 1 | Single Pilot Instance Active | [Ongoing](https://github.com/data2health/leaf-edw/milestone/4)
+September 1 | Single Pilot Instance Active | [DONE](https://github.com/data2health/leaf-edw/milestone/4)
 December 31 | Engaged Multi Instance Pilot kickoff | [Ongoing](https://github.com/data2health/leaf-edw/milestone/2)
 2020 | Evaluation of Pilots (paper) | [Not Started](https://github.com/data2health/leaf-edw/milestone/7)
 
