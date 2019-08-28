@@ -49,6 +49,7 @@ Tamas Gal | [tsgal](https://github.com/tsgal) | CCTR
 JP Gourdine | [jpgourdine](https://github.com/jpgourdine) | OHSU
 Randy Grout | [randallgrout](https://github.com/randallgrout) | Indiana
 Melissa Haendel | [mellybelly](http://github.com/mellybelly) | OHSU
+Steve Johnson | [github.com](http://github.com) | NYU
 Diane Keogh | [gibhub.com](http://gibhub.com) | Harvard
 Boyd Knosp | [boydknosp](http://github.com/boydknosp) | Iowa
 Brenda Kostelecky | [bdkostelecky](http://github.com/bdkostelecky) | Hutch
@@ -63,6 +64,7 @@ Pamela Shaw | [bioscibrarian](https://github.com/bioscibrarian) | Northwestern
 Eric Sid | [ericsid](https://github.com/ericsid) | NCATS
 Harold Solbrig | [hsolbrig](http://github.com/hsolbrig) | JHU
 Julian Solway | [jsolway](http://github.com/jsolway) | UChicago
+Juan Suarez | [github.com](http://github.com) | NYU
 Bradley Taylor | [btaylormcw](https://github.com/btaylormcw) | MCW
 Ali Torkamani | [atorkama](https://github.com/atorkama) | Scripps
 Andrew Williams | [AEW0330](http://github.com/AEW0330) | Tufts
