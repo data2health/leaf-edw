@@ -63,7 +63,9 @@ Brenda Kostelecky | [bdkostelecky](http://github.com/bdkostelecky) | Hutch
 Patricia Kovatch | [](http://github.com/) | MountSinai
 Ashok Krishnamurthy | [ashokohio](http://github.com/ashokohio) | UNC
 Albert Lai | [laialbert](https://github.com/laialbert) | WashU
+Rebecca Laird | [github.com](http://github.com) | CLIC
 Leslie Lenert | [LAL200](https://github.com/LAL200) | MUSC
+Prasanth Manukonda | [github.com](http://github.com) | Rockefeller
 Kate Marusina | [github.com](http://github.com) | UCDavisHealth
 Diego Mazzotti | [mazzottidr](https://github.com/mazzottidr) | UPenn
 Jim McClay | [Standards](https://github.com/UNMCClinicalInfromatics/Standards) | GPCTR
