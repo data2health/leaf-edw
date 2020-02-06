@@ -1,4 +1,4 @@
-# Open Source Clinical Enterprise Data Warehouse (EDW) Data Browser (Leaf) 
+# [Open Source Clinical Enterprise Data Warehouse (EDW) Data Browser (Leaf)](https://github.com/uwrit/leaf)
 
 ## Problem statement
 Academic medical centers and health systems are increasingly challenged with supporting appropriate secondary uses of data from a multitude of sources. To that end, the UW Medicine Enterprise Data Warehouse (EDW) has emerged as a central port for all data that can include clinical, research, administrative, financial and other data types. Although EDW’s have been popular and successful in providing a single stop for data, they are often non-self service and require an informatician or clinical informatics expert to access. 
