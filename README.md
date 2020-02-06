@@ -7,9 +7,6 @@ Academic medical centers and health systems are increasingly challenged with sup
 
 We have developed an easy to use, self service web-based tool for querying, browsing and extracting clinical cohorts from the UW Medicine EDW, called Leaf.  Leaf enables querying by data dictionaries or ontologies and allows both de-identified and identified access to patient data and grants access to these datasets in a compliant manner. While Leaf provides basic visualizations, it contains robust tools for exporting directly to REDCap projects. The users of Leaf include both quality improvement and research investigators and has been developed using an Agile development process with a soft production rollout to identify and address software, support and data quality concerns. 
 
-## Alignment to program objectives
-TODO see [here](https://github.com/data2health/roadmap/blob/master/cd2h-foa.md)
-
 ## Contact person
 
 Point person (github handle) | Site | Program Director
