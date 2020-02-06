@@ -20,7 +20,6 @@ Liz Zampino (@ezampino) | UW | Adam Wilcox (@abwilcox)
 
 Lead(s) (github handle) | Site
 ----------|--------------|
-Kari Stephens (@kstephen0909) | UW
 Nic Dobbins   (@ndobb)        | UW
 Adam Wilcox   (@abwilcox)     | UW
 
