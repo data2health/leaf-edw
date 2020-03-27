@@ -44,3 +44,18 @@ December 31 | Engaged Multi Instance Pilot kickoff | [Ongoing](https://github.co
 # Potential Pitfalls and Alternative Strategies
   
   Since this project is heavily influenced by the engagement activities of a CTSA hub, there is potential for lack of involvement; lack of adequate resources to work with the Leaf team; tech or timeline issues; and/or Leaf is deemed not useful for site. We have devised a strategy that includes having several potential pilot sites that can serve as a back-up sites in case any of the above scenerios occur. Each committed pilot site will be evaluated at period intervals to determine their engangement/progress.
+  
+# Y3 (July 1, 2019-June 30, 2020) Accomplishments 
+The following content is from the June 30 - Dec 30, 2019 mid year progress report [here](https://docs.google.com/document/d/1LLe3uCfEUakWxIJyi5SA4ZocYDmINvhySTperaui1Bw/edit).  Please add progress for Jan 1 - June 30th, 2020. 
+
+* Pilot Plan Framework. For each pilot site a collaborative document will be created with the Leaf team that outlines the purpose and goals, scope, timeline, communication plan and feedback activities. We will achieve this by having bi-weekly chats with project management team and quarterly chats with executive team. This deliverable supports the Leaf team and pilot site, enabling both to have a clear understanding, minimizing risk.
+  * Pilot plan documents are tracked in this GitHub issue https://github.com/data2health/leaf-edw/issues/12. The issue links the Johns Hopkins pilot plan, and will include the University of Chicago and Case Western as they progress in their deployment
+
+* Open Source licensed Leaf code. Clean and polished code available on GitHub with extensive documentation for deployment. This will be accomplished through expertise gained through the deployment of Leaf on the UW infrastructure. A well organized/defined repository supports the independent deployment of Leaf at a CTSA site.
+  * The Mozilla Public License v2 was added in March 2019. Extensive deployment documentation, examples, code snippets, and embedded videos are available directly on the GitHub Leaf page (see https://github.com/uwrit/leaf/tree/master/docs/deploy#architecture, https://github.com/uwrit/leaf/tree/master/docs/deploy#installation-steps, and https://github.com/uwrit/leaf/blob/master/docs/admin/concept/README.md#the-building-blocks-of-leaf-concepts as starting points).
+
+* Evaluation Pilot paper. This paper will discuss and outline the accomplishments of implementing Leaf at 2-3 CTSA hubs. This paper will serve as an information source for institutions to deploy Leaf independently at their site and serves as a companion to the repository.
+  * We are actively planning this but need to coordinate with our partner pilot sites, as they are only beginning to open the tool up to users and this will take time (est. ~6 months).
+
+* Leaf manuscript. This paper serves the purpose of gaining traction in the community and also serves as a way to educate the community on Leaf.
+  * Successfully [published in JAMIA in October 2019](https://academic.oup.com/jamia/article/27/1/109/5583724).
